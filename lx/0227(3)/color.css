@@ -1,0 +1,10 @@
+.naranja {
+    font-size: 18px;
+    color: rgb(255, 165, 0);
+}
+.info {
+    color: blue;
+    font-size: 18px;
+    text-decoration: underline;
+    padding-left: 28%; /* Puedes ajustar el valor según lo necesites */
+}
